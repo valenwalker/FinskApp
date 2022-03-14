@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## FinskApp
+
+The easiest way to keep track of your Finska/Mölkky games!
 
 You can use the [editor on GitHub](https://github.com/valenwalker/FinskApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
