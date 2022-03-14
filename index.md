@@ -1,8 +1,9 @@
 ## FinskApp
 
-The easiest way to keep track of your Finska/Mölkky games!
+The easiest way to track your Finska/Mölkky games!
 
-Please leave us your [comments or issues!](https://github.com/valenwalker/FinskApp/issues/new) 
+Please leave us your [comments or issues](https://github.com/valenwalker/FinskApp/issues/new),
+and we will be happy to help you. 
 
 You can use the [editor on GitHub](https://github.com/valenwalker/FinskApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
